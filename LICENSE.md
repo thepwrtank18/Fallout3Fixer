@@ -6,4 +6,4 @@ By using or modifying this program, you agree to the following:
 * You are allowed to convert the source and object code to other games, but you must credit me.
 * You are allowed to use the assets in this file, but you must credit me.
 * You are **NOT** allowed to use assets in this file if the assets are being used for something you need to pay for.
-* You need permission from me to earn "Donation Points" for your mods on Nexus Mods if you use the source or object code in your mod.
+* You need permission from me to earn "Donation Points" for your mods on Nexus Mods if you use the source or object code in your mod. Contact me on Discord, my ID is 455202304770048001, you can look up my name+tag here: https://discord.id/
