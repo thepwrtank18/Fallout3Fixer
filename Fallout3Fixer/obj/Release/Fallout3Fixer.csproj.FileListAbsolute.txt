@@ -1,0 +1,12 @@
+C:\Users\Leo\source\repos\Fallout3Fixer\Fallout3Fixer\bin\Release\Fallout3Fixer.exe
+C:\Users\Leo\source\repos\Fallout3Fixer\Fallout3Fixer\bin\Release\Fallout3Fixer.pdb
+C:\Users\Leo\source\repos\Fallout3Fixer\Fallout3Fixer\bin\Release\Microsoft.Deployment.WindowsInstaller.dll
+C:\Users\Leo\source\repos\Fallout3Fixer\Fallout3Fixer\bin\Release\Microsoft.Deployment.WindowsInstaller.xml
+C:\Users\Leo\source\repos\Fallout3Fixer\Fallout3Fixer\obj\Release\Fallout3Fixer.Form1.resources
+C:\Users\Leo\source\repos\Fallout3Fixer\Fallout3Fixer\obj\Release\Fallout3Fixer.Properties.Resources.resources
+C:\Users\Leo\source\repos\Fallout3Fixer\Fallout3Fixer\obj\Release\Fallout3Fixer.csproj.GenerateResource.cache
+C:\Users\Leo\source\repos\Fallout3Fixer\Fallout3Fixer\obj\Release\Fallout3Fixer.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\Fallout3Fixer\Fallout3Fixer\obj\Release\Fallout3Fixer.csproj.CopyComplete
+C:\Users\Leo\source\repos\Fallout3Fixer\Fallout3Fixer\obj\Release\Fallout3Fixer.exe
+C:\Users\Leo\source\repos\Fallout3Fixer\Fallout3Fixer\obj\Release\Fallout3Fixer.pdb
+C:\Users\Leo\source\repos\Fallout3Fixer\Fallout3Fixer\obj\Release\Fallout3Fixer.csprojAssemblyReference.cache

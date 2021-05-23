@@ -1,0 +1,8 @@
+C:\Users\Leo\source\repos\Fallout3Fixer\FixerSetup\bin\Release\FixerSetup.exe
+C:\Users\Leo\source\repos\Fallout3Fixer\FixerSetup\bin\Release\FixerSetup.pdb
+C:\Users\Leo\source\repos\Fallout3Fixer\FixerSetup\obj\Release\FixerSetup.csprojAssemblyReference.cache
+C:\Users\Leo\source\repos\Fallout3Fixer\FixerSetup\obj\Release\FixerSetup.Properties.Resources.resources
+C:\Users\Leo\source\repos\Fallout3Fixer\FixerSetup\obj\Release\FixerSetup.csproj.GenerateResource.cache
+C:\Users\Leo\source\repos\Fallout3Fixer\FixerSetup\obj\Release\FixerSetup.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\Fallout3Fixer\FixerSetup\obj\Release\FixerSetup.exe
+C:\Users\Leo\source\repos\Fallout3Fixer\FixerSetup\obj\Release\FixerSetup.pdb
