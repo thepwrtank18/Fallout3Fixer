@@ -1,7 +1,2 @@
-./FixerSetup/Resources/Fallout3Fixer.exe
-./FixerSetup/Resources/Microsoft.Deployment.WindowsInstaller.xml
-./FixerSetup/Resources/Microsoft.Deployment.WindowsInstaller.dll
 ./Fallout3Fixer/bin/*
 ./Fallout3Fixer/obj/*
-./FixerSetup/bin/*
-./FixerSetup/obj/*
