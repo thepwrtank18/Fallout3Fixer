@@ -19,6 +19,7 @@ jobs:
           working_directory: ~/project/App.Tests
           name: Run tests
           command: |
+            cd Fallout3Fixer
             dotnet test
             
 
