@@ -132,6 +132,7 @@ namespace Fallout3Fixer
             this.Controls.Add(this.label1);
             this.Controls.Add(this.falloutDir);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "Vault-Tec Annoyance Disabler";
             this.ResumeLayout(false);

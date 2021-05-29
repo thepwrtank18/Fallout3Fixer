@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fallout3Fixer", "Fallout3Fixer\Fallout3Fixer.csproj", "{2288A32A-9CB8-4E3B-90E6-FDB9EC67D503}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixerSetup", "FixerSetup\FixerSetup.csproj", "{C5C4D03B-6BF8-4EAC-A397-A76359CF1009}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{2288A32A-9CB8-4E3B-90E6-FDB9EC67D503}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2288A32A-9CB8-4E3B-90E6-FDB9EC67D503}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2288A32A-9CB8-4E3B-90E6-FDB9EC67D503}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C5C4D03B-6BF8-4EAC-A397-A76359CF1009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C5C4D03B-6BF8-4EAC-A397-A76359CF1009}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C5C4D03B-6BF8-4EAC-A397-A76359CF1009}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C5C4D03B-6BF8-4EAC-A397-A76359CF1009}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

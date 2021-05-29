@@ -124,6 +124,12 @@
   <data name="registrymod" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\registrymod.reg;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-16</value>
   </data>
+  <data name="windowsinstaller-dll" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Microsoft.Deployment.WindowsInstaller.dll;System.Byte[], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="windowsinstaller-xml" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Microsoft.Deployment.WindowsInstaller.xml;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
   <data name="winlivedisable" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\winlivedisable.exe;System.Byte[], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>

@@ -95,6 +95,37 @@ namespace Fallout3Fixer.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        internal static byte[] windowsinstaller_dll {
+            get {
+                object obj = ResourceManager.GetObject("windowsinstaller-dll", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot;?&gt;
+        ///&lt;doc&gt;
+        ///    &lt;assembly&gt;
+        ///        &lt;name&gt;Microsoft.Deployment.WindowsInstaller&lt;/name&gt;
+        ///    &lt;/assembly&gt;
+        ///    &lt;members&gt;
+        ///        &lt;member name=&quot;T:Microsoft.Deployment.WindowsInstaller.ColumnCollection&quot;&gt;
+        ///            &lt;summary&gt;
+        ///            Collection of column information related to a &lt;see cref=&quot;T:Microsoft.Deployment.WindowsInstaller.TableInfo&quot;/&gt; or
+        ///            &lt;see cref=&quot;T:Microsoft.Deployment.WindowsInstaller.View&quot;/&gt;.
+        ///            &lt;/summary&gt;
+        ///        &lt;/member&gt;
+        ///        &lt;member name=&quot;M:Mic [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string windowsinstaller_xml {
+            get {
+                return ResourceManager.GetString("windowsinstaller-xml", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         internal static byte[] winlivedisable {
             get {
                 object obj = ResourceManager.GetObject("winlivedisable", resourceCulture);
