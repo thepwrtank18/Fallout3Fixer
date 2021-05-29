@@ -170,6 +170,7 @@ namespace Fallout3Fixer
             }
             else if (useLIVE.Checked)
             {
+
                 Directory.CreateDirectory($@"{falloutDir.Text}\temporary");
                 File.Create($@"{falloutDir.Text}\temporary\gfwlclient.msi").Dispose();
                 File.WriteAllBytes($@"{falloutDir.Text}\temporary\gfwlclient.msi", Resources.gfwlclient);
@@ -237,6 +238,8 @@ namespace Fallout3Fixer
                                 File.Delete($@"{falloutDir.Text}\temporary\xliveredist.msi");
                                 File.Delete($@"{falloutDir.Text}\temporary\registrymod.reg");
                                 Directory.Delete($@"{falloutDir.Text}\temporary");
+                                File.Delete("Microsoft.Deployment.WindowsInstaller.dll");
+                                File.Delete("Microsoft.Deployment.WindowsInstaller.xml");
                                 Environment.Exit(0);
                             }
                     }
