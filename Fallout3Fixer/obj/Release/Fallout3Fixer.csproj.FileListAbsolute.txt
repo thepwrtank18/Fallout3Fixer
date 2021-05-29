@@ -9,3 +9,4 @@ C:\Users\Leo\source\repos\Fallout3Fixer\Fallout3Fixer\obj\Release\Fallout3Fixer.
 C:\Users\Leo\source\repos\Fallout3Fixer\Fallout3Fixer\obj\Release\Fallout3Fixer.csproj.CopyComplete
 C:\Users\Leo\source\repos\Fallout3Fixer\Fallout3Fixer\obj\Release\Fallout3Fixer.exe
 C:\Users\Leo\source\repos\Fallout3Fixer\Fallout3Fixer\obj\Release\Fallout3Fixer.pdb
+C:\Users\Leo\source\repos\Fallout3Fixer\Fallout3Fixer\obj\Release\Fallout3Fixer.csproj.AssemblyReference.cache

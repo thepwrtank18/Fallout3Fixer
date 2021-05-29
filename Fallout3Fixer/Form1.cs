@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Diagnostics;
 using System.IO;
+using System.Net;
+using System.Reflection;
+using System.Text;
 using System.Windows.Forms;
 using Fallout3Fixer.Properties;
 using Microsoft.Deployment.WindowsInstaller;
@@ -15,22 +18,6 @@ namespace Fallout3Fixer
         public Form1()
         {
             InitializeComponent();
-
-            if (Directory.Exists(@"C:\Program Files (x86)\Steam\steamapps\common\Fallout 3 goty"))
-                falloutDir.Text = @"C:\Program Files (x86)\Steam\steamapps\common\Fallout 3 goty";
-
-            try
-            {
-                File.Create("test").Dispose();
-                File.Delete("test");
-            }
-            catch (Exception e)
-            {
-                MessageBox.Show(
-                    "Write permissions to this directory is required. As such, using FOSE is the only option.",
-                    "Warning", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                writePermissionsNeeded = true;
-            }
         }
 
 
@@ -262,6 +249,27 @@ namespace Fallout3Fixer
                 useFOSE.Enabled = true;
                 useLIVE.Enabled = true;
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            if (Directory.Exists(@"C:\Program Files (x86)\Steam\steamapps\common\Fallout 3 goty"))
+                falloutDir.Text = @"C:\Program Files (x86)\Steam\steamapps\common\Fallout 3 goty";
+
+            try
+            {
+                File.Create("test").Dispose();
+                File.Delete("test");
+            }
+            catch (Exception)
+            {
+                MessageBox.Show(
+                    "Write permissions to this directory is required. As such, using FOSE is the only option.",
+                    "Warning", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                writePermissionsNeeded = true;
+            }
+
+            
         }
     }
 }
