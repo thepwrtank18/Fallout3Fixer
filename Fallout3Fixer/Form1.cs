@@ -182,6 +182,8 @@ namespace Fallout3Fixer
                 File.WriteAllBytes("Microsoft.Deployment.WindowsInstaller.dll", Resources.windowsinstaller_dll);
                 File.Create("Microsoft.Deployment.WindowsInstaller.xml").Dispose();
                 File.WriteAllText("Microsoft.Deployment.WindowsInstaller.xml", Resources.windowsinstaller_xml);
+               
+                Thread.Sleep(2); // great, hardcoded, love that /s
 
                 Installer.SetInternalUI(InstallUIOptions.HideCancel);
                 Installer.InstallProduct($@"{falloutDir.Text}\temporary\gfwlclient.msi",
